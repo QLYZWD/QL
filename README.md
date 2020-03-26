@@ -1,2 +1,3 @@
 # QL
 none
+learning······
